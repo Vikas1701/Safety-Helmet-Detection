@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SH</folder>
+	<filename>s35.jpg</filename>
+	<path>C:\Users\ASUS\Downloads\SH\s35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>530</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>61</ymin>
+			<xmax>392</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

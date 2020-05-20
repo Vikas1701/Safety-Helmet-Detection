@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SH</folder>
+	<filename>s18.jpg</filename>
+	<path>C:\Users\ASUS\Downloads\SH\s18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>844</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>127</ymin>
+			<xmax>764</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>
